@@ -1,0 +1,7 @@
+Primeiro é necessário baixar o app para converter para json:
+
+https://github.com/omerbenamram/evtx/releases/download/v0.8.3/evtx_dump-v0.8.3-x86_64-unknown-linux-gnu
+
+
+
+sintex: ./evtx_dump-v0.8.3-x86_64-unknown-linux-gnu -o json -f arquivo.json arquivo.evtx
