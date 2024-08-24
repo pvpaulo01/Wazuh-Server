@@ -7,3 +7,6 @@
 - ⚫ **Análise de Vulnerabilidades**: Identificação de vulnerabilidades conhecidas em sistemas operacionais e aplicativos.
 - 🔵 **Conformidade**: Monitoramento contínuo para garantir que os sistemas estejam em conformidade com as regulamentações e políticas de segurança.
 - ⚫ **SIEM**: Integração com sistemas de gerenciamento de eventos e informações de segurança (SIEM) para uma visão centralizada dos eventos de segurança.
+
+# Configurações iniciais
+
