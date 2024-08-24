@@ -1,3 +1,2 @@
-Para converter Logs de eventos windows com formato .evtx no linux é necessário primeiramente baixar a ferramenta evtx_dump :
-
-# wget https://github.com/omerbenamram/evtx/releases/download/v0.8.3/evtx_dump-v0.8.3-x86_64-unknown-linux-gnu
+Para converter Logs de eventos windows com formato .evtx no linux é necessário primeiramente baixar a ferramenta evtx_dump em :
+https://github.com/omerbenamram/evtx/releases/download/v0.8.3/evtx_dump-v0.8.3-x86_64-unknown-linux-gnu
