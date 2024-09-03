@@ -33,7 +33,7 @@ Agora, crie um script Python para manipular o arquivo JSON e ajustá-lo ao forma
 ### 4. Apontamento no Filebeat
 Após converter o arquivo, basta fazer o apontamento para que o Filebeat possa criar os índices correspondentes às datas reais dos logs.
 
-Adicione o caminho do arquivo convertido em /usr/share/filebeat/module/alerts/manifest.yml.
+Adicione o caminho do arquivo convertido em /usr/share/filebeat/module/wazuh/alerts/manifest.yml.
 Se seu arquivo json estiver em /var/log/logs-evtx.json o conteudo do arquivo manifest.yml ficaria:
 ```
 filebeat.modules:
